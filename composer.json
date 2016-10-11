@@ -1,0 +1,21 @@
+{
+	"name": "vixen1975/gallery-images",
+	"description": "A basic gallery and banner images module.",
+	"keywords": [
+		"silverstripe",
+		"gallery",
+		"images"
+	],
+	"type": "silverstripe-module",
+	"require": {
+		"silverstripe/cms": "^3.1.0"
+	},
+	"authors": [
+		{
+			"name": "Vicki Coupe",
+			"email": "vicki@perthwebdev.com.au"
+		}
+	],
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
